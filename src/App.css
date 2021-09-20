@@ -1,0 +1,63 @@
+.App{
+  margin: 0;
+  padding: 0;
+
+}
+.header{
+  color: antiquewhite;
+  font-size:20px;
+  background-color: royalblue;
+  font-variant: small-caps;
+  font-weight: 100;
+  padding-left:1px;
+}
+.table{
+  border: gray;
+  margin-left:auto ;
+  margin-right: auto;
+  margin-top: 10vmax;
+
+}
+.table thead{
+  padding: 10px;
+  background-color: royalblue;
+  color: white;
+
+}
+.table tbody{
+  font-variant: small-caps;
+  font-size: 20px;
+  padding:20px;
+}
+.btn {
+  padding: 1px;
+  font-size: medium;
+  border-radius:10px ;
+  font-variant: small-caps;
+  text-align: center;
+  margin:auto;
+}
+.btn button{
+  background-color: blue;
+  color: whitesmoke;
+  border-radius: 5px;
+  font-size: medium;
+  box-shadow: 2px 2px gray;
+}
+.form-grp{
+  text-align: center;
+  margin-top: 50px;
+}
+.input{
+  font-variant: small-caps;
+  margin: 5px;
+  width:auto;
+  font-size: medium;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+.input ::placeholder{
+  color: purple;
+  font-size:15px;
+  padding: 3px;
+}
